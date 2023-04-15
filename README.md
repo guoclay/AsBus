@@ -1,4 +1,4 @@
-# Spatial-Temporal Multi-Scale Representation for Bus Ridership Prediction
+# Dynamic Spatial-Temporal Multi-Scale Representation for Bus Ridership Prediction
 
 
 ## Data Preparation
